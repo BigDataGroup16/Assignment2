@@ -1,2 +1,7 @@
+util/WikipediaPageInputFormat$WikipediaPageRecordReader.class
+util/XMLInputFormat.class
 mapreduce/GetArticlesMapred.class
+util/XMLInputFormat$XMLRecordReader.class
+util/IndexableFileInputFormat.class
+util/WikipediaPageInputFormat.class
 mapreduce/GetArticlesMapred$GetArticlesMapper.class
